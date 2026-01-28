@@ -1,7 +1,5 @@
 **Resolve Automation Assessment**
 
-This repository contains my solution for the Resolve Automation Engineer student Co-op assessment.
-
 The tests were written using Selenium and Pytest to interact with the provided HTML test page and complete the tasks listed in the guide.
 
 **What I used:**
